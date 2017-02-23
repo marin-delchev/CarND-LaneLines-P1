@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 
 ###1. Pipeline description.
 
-The pipeline consisted of 7 steps.
+The pipeline consisted of 9 steps.
 
 1. The image is converted to gray scale.
 
@@ -46,7 +46,7 @@ The pipeline consisted of 7 steps.
 
 The result form the test images and videos can be found [here](./result)
 
-![example result][./result/solidWhiteCurve.jpg]
+![example result](./result/solidWhiteCurve.jpg)
 
 
 ###2. shortcomings with the current pipeline
