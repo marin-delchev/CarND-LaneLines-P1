@@ -21,9 +21,9 @@ The pipeline consisted of 9 steps.
 
 7. Find extreme values (min x, max x, min y etc.) in the set of left lines. The left line is a line connecting its min values to its max values. Repeat the same procedure for the set of right lines.
 
-8. Extrapolate the left line by fitting y = Ax+B line to it and extnding it to the bottom of the image. Repeat the same for the right line.
+8. Extrapolate the left line by fitting y = Ax+B line to it and extending it to the bottom of the image. Repeat the same for the right line.
 
-9. Draw the lins on the initial image. 
+9. Draw the lines on the initial image. 
 
 The result form the test images and videos can be found [here](./result)
 
